@@ -10,20 +10,16 @@ This experiment tests whether a Large Language Model (LLM) can predict insurance
 ## Quick Start
 
 ```bash
-# 1. Clone the repository
-git clone <your-repo-url>
-cd acord_experiment
-
-# 2. Set your API key
+# 1. Set your API key
 export ANTHROPIC_API_KEY='your-api-key-here'
 
-# 3. Install dependencies
+# 2. Install dependencies
 uv sync
 
-# 4. Start Jupyter notebook
+# 3. Start Jupyter notebook
 uv run jupyter notebook
 
-# 5. Open experiment.ipynb and run all cells
+# 4. Open experiment.ipynb and run all cells
 ```
 
 
