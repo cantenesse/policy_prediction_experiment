@@ -10,10 +10,12 @@ from anthropic import Anthropic
 def load_training_examples():
     """Load the first 5 ACORD forms and their corresponding policies as training examples."""
     training_data = []
+    base_path = os.path.join(os.path.dirname(__file__), 'data')
+
     for i in range(1, 6):
-        with open(f'/home/claude/acord_form_{i}.txt', 'r') as f:
+        with open(os.path.join(base_path, f'acord_form_{i}.txt'), 'r') as f:
             acord_form = f.read()
-        with open(f'/home/claude/policy_{i}.json', 'r') as f:
+        with open(os.path.join(base_path, f'policy_{i}.json'), 'r') as f:
             policy_json = f.read()
         training_data.append({
             'acord_form': acord_form,
@@ -23,9 +25,11 @@ def load_training_examples():
 
 def load_test_case():
     """Load the 6th ACORD form (test case) and ground truth policy."""
-    with open('/home/claude/acord_form_6.txt', 'r') as f:
+    base_path = os.path.join(os.path.dirname(__file__), 'data')
+
+    with open(os.path.join(base_path, 'acord_form_6.txt'), 'r') as f:
         test_acord = f.read()
-    with open('/home/claude/policy_6.json', 'r') as f:
+    with open(os.path.join(base_path, 'policy_6.json'), 'r') as f:
         ground_truth = json.load(f)
     return test_acord, ground_truth
 
@@ -215,7 +219,8 @@ def main():
         print()
         
         # Save generated policy
-        with open('/home/claude/generated_policy_6.json', 'w') as f:
+        output_path = os.path.join(os.path.dirname(__file__), 'generated_policy_6.json')
+        with open(output_path, 'w') as f:
             json.dump(generated_policy, f, indent=2)
         print("✓ Generated policy saved to: generated_policy_6.json")
         print()
@@ -246,7 +251,8 @@ def main():
     print()
     
     # Save detailed comparison
-    with open('/home/claude/comparison_results.json', 'w') as f:
+    output_path = os.path.join(os.path.dirname(__file__), 'comparison_results.json')
+    with open(output_path, 'w') as f:
         json.dump({
             'metrics': metrics,
             'details': details

@@ -55,13 +55,16 @@ Each example includes:
 ## Files Structure
 
 ```
-acord_form_1.txt → policy_1.json  (Training)
-acord_form_2.txt → policy_2.json  (Training)
-acord_form_3.txt → policy_3.json  (Training)
-acord_form_4.txt → policy_4.json  (Training)
-acord_form_5.txt → policy_5.json  (Training)
-acord_form_6.txt → policy_6.json  (Test - Ground Truth)
-run_experiment.py                  (Experiment script)
+data/
+├── acord_form_1.txt → policy_1.json  (Training)
+├── acord_form_2.txt → policy_2.json  (Training)
+├── acord_form_3.txt → policy_3.json  (Training)
+├── acord_form_4.txt → policy_4.json  (Training)
+├── acord_form_5.txt → policy_5.json  (Training)
+└── acord_form_6.txt → policy_6.json  (Test - Ground Truth)
+
+run_experiment.py                      (Experiment script)
+experiment.ipynb                       (Interactive notebook)
 ```
 
 ## Running the Experiment
@@ -214,8 +217,9 @@ acord_experiment/
 ├── run_experiment.py         # Command-line script version
 ├── start_notebook.sh         # Convenience launcher script
 │
-├── acord_form_1-6.txt       # ACORD application forms (training + test)
-├── policy_1-6.json          # Corresponding policy JSONs (ground truth)
+├── data/                     # Data directory
+│   ├── acord_form_1-6.txt   # ACORD application forms (training + test)
+│   └── policy_1-6.json      # Corresponding policy JSONs (ground truth)
 │
 ├── pyproject.toml           # Project dependencies
 ├── uv.lock                  # Locked dependency versions
