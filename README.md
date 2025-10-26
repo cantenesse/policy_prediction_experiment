@@ -17,18 +17,15 @@ cd acord_experiment
 # 2. Set your API key
 export ANTHROPIC_API_KEY='your-api-key-here'
 
-# 3. Run with the launcher script
-./start_notebook.sh
-```
-
-Or use the interactive Jupyter notebook:
-```bash
+# 3. Install dependencies
 uv sync
+
+# 4. Start Jupyter notebook
 uv run jupyter notebook
-# Open experiment.ipynb
+
+# 5. Open experiment.ipynb and run all cells
 ```
 
-See **[QUICK_START.md](QUICK_START.md)** for more options.
 
 ## Experiment Design
 
@@ -63,40 +60,46 @@ data/
 ├── acord_form_5.txt → policy_5.json  (Training)
 └── acord_form_6.txt → policy_6.json  (Test - Ground Truth)
 
-run_experiment.py                      (Experiment script)
 experiment.ipynb                       (Interactive notebook)
 ```
 
 ## Running the Experiment
 
 ### Prerequisites
-1. Python 3.8+
-2. Anthropic API key
-3. Install required package:
-   ```bash
-   pip install anthropic --break-system-packages
-   ```
+1. Python 3.11+
+2. [uv](https://docs.astral.sh/uv/) package manager
+3. Anthropic API key
 
 ### Steps
 
 1. **Set your API key**:
    ```bash
    export ANTHROPIC_API_KEY='your-api-key-here'
+   # Or create a .env file with: ANTHROPIC_API_KEY=your-api-key-here
    ```
 
-2. **Run the experiment**:
+2. **Install dependencies**:
    ```bash
-   python run_experiment.py
+   uv sync
    ```
 
-### What the Script Does
+3. **Start Jupyter notebook**:
+   ```bash
+   uv run jupyter notebook
+   ```
+
+4. **Run the experiment**:
+   - Open `experiment.ipynb` in your browser
+   - Click "Kernel" → "Restart & Run All"
+
+### What the Notebook Does
 
 1. Loads 5 training examples (ACORD forms + policy JSONs)
 2. Loads the test ACORD form (form 6)
 3. Creates a few-shot prompt with all training examples
 4. Calls Claude API to generate policy JSON for test form
 5. Compares generated policy against ground truth
-6. Calculates accuracy metrics
+6. Calculates accuracy metrics and visualizes results
 7. Saves results to files
 
 ## Output Files
@@ -204,18 +207,13 @@ After running the experiment:
 
 ## Documentation
 
-- **[QUICK_START.md](QUICK_START.md)** - Get running in 3 minutes
-- **[JUPYTER_GUIDE.md](JUPYTER_GUIDE.md)** - Complete Jupyter notebook guide with troubleshooting
-- **[SETUP.md](SETUP.md)** - Detailed setup instructions
-- **[experiment.ipynb](experiment.ipynb)** - Interactive notebook with visualizations
+- **[experiment.ipynb](experiment.ipynb)** - Interactive notebook with detailed explanations and visualizations
 
 ## Project Structure
 
 ```
 acord_experiment/
-├── experiment.ipynb          # Interactive Jupyter notebook (recommended)
-├── run_experiment.py         # Command-line script version
-├── start_notebook.sh         # Convenience launcher script
+├── experiment.ipynb          # Interactive Jupyter notebook
 │
 ├── data/                     # Data directory
 │   ├── acord_form_1-6.txt   # ACORD application forms (training + test)
@@ -225,9 +223,6 @@ acord_experiment/
 ├── uv.lock                  # Locked dependency versions
 │
 ├── README.md                # This file - project overview
-├── QUICK_START.md          # Quick start guide
-├── JUPYTER_GUIDE.md        # Complete Jupyter guide
-├── SETUP.md                # Detailed setup instructions
 └── .env.example            # API key template
 ```
 
