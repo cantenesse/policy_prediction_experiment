@@ -1,0 +1,77 @@
+ACORD 125 - COMMERCIAL INSURANCE APPLICATION
+============================================
+
+AGENCY: Summit Insurance Brokers
+AGENT: Jennifer Martinez
+DATE: 03/15/2024
+APPLICATION NO: APP-2024-001
+
+APPLICANT INFORMATION
+---------------------
+Business Name: Green Valley Landscaping LLC
+DBA: Green Valley Lawn Care
+Mailing Address: 1245 Oak Street, Suite 200
+City: Portland, State: OR, ZIP: 97201
+Physical Address: Same as mailing
+Business Phone: (503) 555-0142
+Email: info@greenvalleylandscaping.com
+Website: www.greenvalleylandscaping.com
+Federal ID: 93-1234567
+
+BUSINESS DESCRIPTION
+--------------------
+Type of Business: Landscaping and lawn maintenance services
+Years in Business: 8
+Legal Structure: Limited Liability Company
+Total Number of Employees: 15 full-time, 8 seasonal
+Annual Payroll: $850,000
+Annual Revenue: $1,200,000
+
+COVERAGE REQUESTED
+------------------
+General Liability: Yes
+  - Occurrence Limit: $1,000,000
+  - Aggregate Limit: $2,000,000
+  - Products/Completed Ops: $2,000,000
+
+Commercial Auto: Yes
+  - Number of Vehicles: 6
+  - Vehicle Types: 4 pickup trucks, 2 box trucks
+
+Workers Compensation: Yes
+  - State: Oregon
+  - Estimated Annual Payroll: $850,000
+
+Property: Yes
+  - Building Value: $0 (leased)
+  - Business Personal Property: $180,000
+  - Location: 1245 Oak Street, Portland, OR 97201
+
+LOSS HISTORY (Past 5 Years)
+----------------------------
+General Liability Claims: 1
+  - Date: 08/2022
+  - Description: Customer slip and fall on wet pavement
+  - Amount Paid: $8,500
+
+Auto Claims: 2
+  - Date: 03/2023 - Vehicle accident, backing collision - $4,200
+  - Date: 11/2021 - Windshield damage - $650
+
+Workers Comp Claims: 1
+  - Date: 06/2023
+  - Description: Back strain from lifting equipment
+  - Amount Paid: $12,000
+
+ADDITIONAL INFORMATION
+----------------------
+Safety Programs: Yes - Weekly safety meetings, equipment training
+Certifications: Oregon Landscape Contractors Board License #8765
+Subcontractors Used: Occasionally for tree removal (less than 5% of work)
+Seasonal Operations: Peak season March-October
+Equipment: Mowers, edgers, blowers, small excavator, aerators
+
+APPLICANT SIGNATURE
+-------------------
+Signed: Robert Chen, Managing Member
+Date: 03/15/2024

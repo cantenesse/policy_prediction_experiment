@@ -1,0 +1,117 @@
+{
+  "policy_number": "CMP-2024-778921",
+  "effective_date": "04/15/2024",
+  "expiration_date": "04/15/2025",
+  "insured": {
+    "business_name": "FitLife Wellness Center LLC",
+    "dba": "FitLife",
+    "address": "3300 Ocean Boulevard, Miami, FL 33139",
+    "federal_id": "65-2345678",
+    "industry_code": "713940",
+    "industry_description": "Fitness and Recreational Sports Centers"
+  },
+  "policy_type": "Fitness Center Package Policy",
+  "premium": {
+    "total_annual_premium": 32500,
+    "general_liability": 14800,
+    "professional_liability": 6500,
+    "commercial_auto": 1800,
+    "workers_compensation": 7200,
+    "property": 2200,
+    "payment_plan": "Monthly",
+    "deposit": 5417
+  },
+  "coverages": {
+    "general_liability": {
+      "form": "Occurrence",
+      "each_occurrence_limit": 2000000,
+      "general_aggregate_limit": 4000000,
+      "products_completed_operations_aggregate": 4000000,
+      "personal_advertising_injury": 2000000,
+      "medical_expense_limit": 10000,
+      "deductible": 2500,
+      "additional_insureds": "Landlord per lease agreement",
+      "abuse_and_molestation": {
+        "limit": 1000000,
+        "aggregate": 1000000,
+        "deductible": 2500
+      }
+    },
+    "professional_liability": {
+      "form": "Claims-Made",
+      "each_claim_limit": 1000000,
+      "aggregate_limit": 1000000,
+      "deductible": 5000,
+      "retroactive_date": "04/15/2018",
+      "covered_professionals": [
+        "Personal trainers",
+        "Group fitness instructors",
+        "Nutrition counselors"
+      ]
+    },
+    "commercial_auto": {
+      "covered_autos": "All owned autos",
+      "liability_limit": "1000000 Combined Single Limit",
+      "uninsured_motorist": "1000000 Combined Single Limit",
+      "medical_payments": 5000,
+      "comprehensive_deductible": 500,
+      "collision_deductible": 1000,
+      "number_of_vehicles": 1,
+      "vehicle_schedule": [
+        {"year": 2022, "make": "Ford", "model": "Transit", "vin": "NM0LS7E7XN1456789", "use": "Equipment transport"}
+      ]
+    },
+    "workers_compensation": {
+      "state": "FL",
+      "limits": "Statutory",
+      "employers_liability": {
+        "bodily_injury_by_accident": 1000000,
+        "bodily_injury_by_disease_policy_limit": 1000000,
+        "bodily_injury_by_disease_each_employee": 1000000
+      },
+      "estimated_annual_premium": 7200,
+      "payroll_basis": 980000
+    },
+    "property": {
+      "building_coverage": 0,
+      "building_ownership": "Not Owned",
+      "business_personal_property_limit": 380000,
+      "business_income_limit": 400000,
+      "extra_expense_limit": 100000,
+      "deductible": 2500,
+      "cause_of_loss": "Special Form",
+      "location": "3300 Ocean Boulevard, Miami, FL 33139",
+      "scheduled_property": [
+        {"type": "Fitness equipment", "limit": 300000},
+        {"type": "Fixtures and improvements", "limit": 80000}
+      ]
+    }
+  },
+  "underwriting_factors": {
+    "years_in_business": 6,
+    "number_of_employees": 30,
+    "annual_revenue": 1650000,
+    "loss_ratio_past_5_years": 0.32,
+    "claims_count_past_5_years": 5,
+    "credit_score_tier": "Good",
+    "safety_programs": true,
+    "experience_modification_rate": 1.22,
+    "member_waivers": true,
+    "staff_certifications": true,
+    "childcare_services": true,
+    "active_members": 850
+  },
+  "endorsements": [
+    "Abuse and Molestation Liability",
+    "Assault and Battery Coverage",
+    "Personal Training Professional Liability",
+    "Participant Legal Liability",
+    "Hired and Non-Owned Auto Liability",
+    "Equipment Breakdown ($100,000)"
+  ],
+  "agent": {
+    "agency_name": "Coastal Insurance Services",
+    "agent_name": "Lisa Johnson",
+    "commission_rate": 0.14
+  }
+}

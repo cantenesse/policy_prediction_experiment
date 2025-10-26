@@ -1,0 +1,94 @@
+{
+  "policy_number": "CMP-2024-789456",
+  "effective_date": "04/01/2024",
+  "expiration_date": "04/01/2025",
+  "insured": {
+    "business_name": "Green Valley Landscaping LLC",
+    "dba": "Green Valley Lawn Care",
+    "address": "1245 Oak Street, Suite 200, Portland, OR 97201",
+    "federal_id": "93-1234567",
+    "industry_code": "561730",
+    "industry_description": "Landscaping Services"
+  },
+  "policy_type": "Business Owners Policy (BOP)",
+  "premium": {
+    "total_annual_premium": 18750,
+    "general_liability": 6500,
+    "commercial_auto": 7200,
+    "workers_compensation": 3800,
+    "property": 1250,
+    "payment_plan": "10-month installments",
+    "deposit": 3750
+  },
+  "coverages": {
+    "general_liability": {
+      "form": "Occurrence",
+      "each_occurrence_limit": 1000000,
+      "general_aggregate_limit": 2000000,
+      "products_completed_operations_aggregate": 2000000,
+      "personal_advertising_injury": 1000000,
+      "medical_expense_limit": 5000,
+      "deductible": 1000,
+      "additional_insureds": "Clients as required by written contract"
+    },
+    "commercial_auto": {
+      "covered_autos": "All owned autos",
+      "liability_limit": "1000000 Combined Single Limit",
+      "uninsured_motorist": "1000000 Combined Single Limit",
+      "medical_payments": 5000,
+      "comprehensive_deductible": 500,
+      "collision_deductible": 1000,
+      "number_of_vehicles": 6,
+      "vehicle_schedule": [
+        {"year": 2021, "make": "Ford", "model": "F-150", "vin": "1FTEW1EP8MKE12345"},
+        {"year": 2020, "make": "Ford", "model": "F-150", "vin": "1FTEW1EP2LKE67890"},
+        {"year": 2022, "make": "Chevrolet", "model": "Silverado", "vin": "1GCUYEED8NZ123456"},
+        {"year": 2019, "make": "Ford", "model": "F-250", "vin": "1FT7W2B68KEE78901"},
+        {"year": 2020, "make": "Isuzu", "model": "NPR", "vin": "JALC4W16XL7234567"},
+        {"year": 2021, "make": "Isuzu", "model": "NPR", "vin": "JALC4W16XM7345678"}
+      ]
+    },
+    "workers_compensation": {
+      "state": "OR",
+      "limits": "Statutory",
+      "employers_liability": {
+        "bodily_injury_by_accident": 1000000,
+        "bodily_injury_by_disease_policy_limit": 1000000,
+        "bodily_injury_by_disease_each_employee": 1000000
+      },
+      "estimated_annual_premium": 3800,
+      "payroll_basis": 850000
+    },
+    "property": {
+      "building_coverage": 0,
+      "building_ownership": "Not Owned",
+      "business_personal_property_limit": 180000,
+      "business_income_limit": 100000,
+      "extra_expense_limit": 50000,
+      "deductible": 2500,
+      "cause_of_loss": "Special Form",
+      "location": "1245 Oak Street, Suite 200, Portland, OR 97201"
+    }
+  },
+  "underwriting_factors": {
+    "years_in_business": 8,
+    "number_of_employees": 23,
+    "annual_revenue": 1200000,
+    "loss_ratio_past_5_years": 0.12,
+    "claims_count_past_5_years": 4,
+    "credit_score_tier": "Good",
+    "safety_programs": true,
+    "experience_modification_rate": 0.98
+  },
+  "endorsements": [
+    "Blanket Additional Insured",
+    "Waiver of Subrogation",
+    "Hired and Non-Owned Auto Liability",
+    "Employee Tools and Equipment Coverage ($25,000)"
+  ],
+  "agent": {
+    "agency_name": "Summit Insurance Brokers",
+    "agent_name": "Jennifer Martinez",
+    "commission_rate": 0.12
+  }
+}

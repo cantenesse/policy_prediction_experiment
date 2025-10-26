@@ -1,0 +1,98 @@
+{
+  "policy_number": "CMP-2024-445623",
+  "effective_date": "02/01/2024",
+  "expiration_date": "02/01/2025",
+  "insured": {
+    "business_name": "TechHub Electronics LLC",
+    "dba": "TechHub",
+    "address": "456 Maple Avenue, Chicago, IL 60614",
+    "federal_id": "36-9876543",
+    "industry_code": "443142",
+    "industry_description": "Electronics Stores"
+  },
+  "policy_type": "Business Owners Policy (BOP)",
+  "premium": {
+    "total_annual_premium": 14850,
+    "general_liability": 3200,
+    "workers_compensation": 2100,
+    "property": 8500,
+    "crime_coverage": 1050,
+    "payment_plan": "Quarterly",
+    "deposit": 3713
+  },
+  "coverages": {
+    "general_liability": {
+      "form": "Occurrence",
+      "each_occurrence_limit": 1000000,
+      "general_aggregate_limit": 2000000,
+      "products_completed_operations_aggregate": 2000000,
+      "personal_advertising_injury": 1000000,
+      "medical_expense_limit": 5000,
+      "deductible": 1000,
+      "additional_insureds": "Landlord per lease agreement"
+    },
+    "commercial_auto": {
+      "covered": false
+    },
+    "workers_compensation": {
+      "state": "IL",
+      "limits": "Statutory",
+      "employers_liability": {
+        "bodily_injury_by_accident": 500000,
+        "bodily_injury_by_disease_policy_limit": 500000,
+        "bodily_injury_by_disease_each_employee": 500000
+      },
+      "estimated_annual_premium": 2100,
+      "payroll_basis": 520000
+    },
+    "property": {
+      "building_coverage": 0,
+      "building_ownership": "Not Owned",
+      "business_personal_property_limit": 650000,
+      "business_income_limit": 300000,
+      "extra_expense_limit": 75000,
+      "deductible": 2500,
+      "cause_of_loss": "Special Form",
+      "location": "456 Maple Avenue, Chicago, IL 60614",
+      "scheduled_property": [
+        {"type": "Inventory", "limit": 450000},
+        {"type": "Equipment and fixtures", "limit": 200000}
+      ],
+      "protective_safeguards": {
+        "burglar_alarm": true,
+        "security_cameras": true,
+        "sprinkler_system": true
+      }
+    },
+    "crime_coverage": {
+      "employee_dishonesty": 100000,
+      "money_and_securities_inside_premises": 25000,
+      "money_and_securities_outside_premises": 10000,
+      "deductible": 1000
+    }
+  },
+  "underwriting_factors": {
+    "years_in_business": 5,
+    "number_of_employees": 12,
+    "annual_revenue": 1850000,
+    "loss_ratio_past_5_years": 0.08,
+    "claims_count_past_5_years": 1,
+    "credit_score_tier": "Excellent",
+    "safety_programs": true,
+    "experience_modification_rate": 0.95,
+    "security_systems": true,
+    "prior_theft_claims": true
+  },
+  "endorsements": [
+    "Employee Dishonesty Coverage",
+    "Money and Securities Coverage",
+    "Electronic Data Processing Equipment Coverage",
+    "Utility Services - Direct Damage",
+    "Accounts Receivable Coverage ($50,000)"
+  ],
+  "agent": {
+    "agency_name": "Midwest Insurance Group",
+    "agent_name": "Sarah Williams",
+    "commission_rate": 0.13
+  }
+}

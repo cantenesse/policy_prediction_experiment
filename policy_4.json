@@ -1,0 +1,129 @@
+{
+  "policy_number": "CMP-2024-556789",
+  "effective_date": "04/01/2024",
+  "expiration_date": "04/01/2025",
+  "insured": {
+    "business_name": "Strategic Solutions Consulting Group LLC",
+    "dba": "Strategic Solutions",
+    "address": "789 Commonwealth Avenue, 5th Floor, Boston, MA 02215",
+    "federal_id": "04-3456789",
+    "industry_code": "541611",
+    "industry_description": "Administrative Management and General Management Consulting Services"
+  },
+  "policy_type": "Professional Services Package",
+  "premium": {
+    "total_annual_premium": 28900,
+    "general_liability": 4200,
+    "professional_liability": 15800,
+    "commercial_auto": 3600,
+    "workers_compensation": 3500,
+    "property": 900,
+    "cyber_liability": 900,
+    "payment_plan": "Annual",
+    "deposit": 28900
+  },
+  "coverages": {
+    "general_liability": {
+      "form": "Occurrence",
+      "each_occurrence_limit": 1000000,
+      "general_aggregate_limit": 2000000,
+      "products_completed_operations_aggregate": 2000000,
+      "personal_advertising_injury": 1000000,
+      "medical_expense_limit": 10000,
+      "deductible": 2500,
+      "additional_insureds": "None"
+    },
+    "professional_liability": {
+      "form": "Claims-Made",
+      "each_claim_limit": 2000000,
+      "aggregate_limit": 2000000,
+      "deductible": 25000,
+      "retroactive_date": "01/01/2014",
+      "extended_reporting_period_option": "3 years available for additional premium",
+      "covered_services": [
+        "Management consulting",
+        "Strategic planning",
+        "Organizational development",
+        "Process improvement",
+        "Change management"
+      ]
+    },
+    "commercial_auto": {
+      "covered_autos": "All owned autos",
+      "liability_limit": "1000000 Combined Single Limit",
+      "uninsured_motorist": "1000000 Combined Single Limit",
+      "medical_payments": 5000,
+      "comprehensive_deductible": 500,
+      "collision_deductible": 1000,
+      "hired_and_non_owned_auto": true,
+      "number_of_vehicles": 3,
+      "vehicle_schedule": [
+        {"year": 2023, "make": "Toyota", "model": "Camry", "vin": "4T1B11HK5PU123456", "primary_use": "Business travel"},
+        {"year": 2022, "make": "Honda", "model": "Accord", "vin": "1HGCV1F36NA234567", "primary_use": "Business travel"},
+        {"year": 2024, "make": "Toyota", "model": "Camry", "vin": "4T1C11AK8RU345678", "primary_use": "Business travel"}
+      ]
+    },
+    "workers_compensation": {
+      "state": "MA",
+      "limits": "Statutory",
+      "employers_liability": {
+        "bodily_injury_by_accident": 1000000,
+        "bodily_injury_by_disease_policy_limit": 1000000,
+        "bodily_injury_by_disease_each_employee": 1000000
+      },
+      "estimated_annual_premium": 3500,
+      "payroll_basis": 3200000
+    },
+    "property": {
+      "building_coverage": 0,
+      "building_ownership": "Not Owned",
+      "business_personal_property_limit": 280000,
+      "business_income_limit": 500000,
+      "extra_expense_limit": 250000,
+      "deductible": 2500,
+      "cause_of_loss": "Special Form",
+      "location": "789 Commonwealth Avenue, 5th Floor, Boston, MA 02215",
+      "valuable_papers_coverage": 100000
+    },
+    "cyber_liability": {
+      "coverage_limit": 1000000,
+      "deductible": 10000,
+      "first_party_coverages": [
+        "Data breach response",
+        "Business interruption",
+        "Cyber extortion",
+        "Data restoration"
+      ],
+      "third_party_coverages": [
+        "Network security liability",
+        "Privacy liability",
+        "Media liability"
+      ]
+    }
+  },
+  "underwriting_factors": {
+    "years_in_business": 15,
+    "number_of_employees": 32,
+    "annual_revenue": 5400000,
+    "loss_ratio_past_5_years": 0.04,
+    "claims_count_past_5_years": 1,
+    "credit_score_tier": "Excellent",
+    "safety_programs": true,
+    "experience_modification_rate": 0.88,
+    "professional_certifications": true,
+    "written_contracts": true,
+    "quality_control_procedures": true
+  },
+  "endorsements": [
+    "Hired and Non-Owned Auto Liability",
+    "Employee Benefits Liability",
+    "Valuable Papers and Records Coverage",
+    "Employment Practices Liability ($1,000,000)",
+    "Directors and Officers Liability ($2,000,000)"
+  ],
+  "agent": {
+    "agency_name": "Northeast Business Insurance",
+    "agent_name": "Robert Chen",
+    "commission_rate": 0.10
+  }
+}

@@ -1,0 +1,93 @@
+ACORD 125 - COMMERCIAL INSURANCE APPLICATION
+============================================
+
+AGENCY: Northeast Business Insurance
+AGENT: Robert Chen
+DATE: 03/05/2024
+APPLICATION NO: APP-2024-167
+
+APPLICANT INFORMATION
+---------------------
+Business Name: Strategic Solutions Consulting Group LLC
+DBA: Strategic Solutions
+Mailing Address: 789 Commonwealth Avenue, 5th Floor
+City: Boston, State: MA, ZIP: 02215
+Physical Address: Same as mailing
+Business Phone: (617) 555-0345
+Email: contact@strategicsolutionsllc.com
+Website: www.strategicsolutionsllc.com
+Federal ID: 04-3456789
+
+BUSINESS DESCRIPTION
+--------------------
+Type of Business: Management and business consulting
+Years in Business: 15
+Legal Structure: Limited Liability Company
+Total Number of Employees: 32 full-time
+Annual Payroll: $3,200,000
+Annual Revenue: $5,400,000
+Services Provided: Strategic planning, organizational development, process improvement, change management
+Client Base: Mid-size to large corporations, primarily Fortune 1000
+Office Size: 6,500 square feet
+
+COVERAGE REQUESTED
+------------------
+General Liability: Yes
+  - Occurrence Limit: $1,000,000
+  - Aggregate Limit: $2,000,000
+
+Professional Liability (E&O): Yes
+  - Claims-Made Policy
+  - Limit: $2,000,000 per claim
+  - Aggregate: $2,000,000
+
+Commercial Auto: Yes
+  - Number of Vehicles: 3
+  - Vehicle Types: 3 sedans (owned)
+
+Workers Compensation: Yes
+  - State: Massachusetts
+  - Estimated Annual Payroll: $3,200,000
+
+Property: Yes
+  - Building Value: $0 (leased)
+  - Business Personal Property: $280,000
+  - Location: 789 Commonwealth Avenue, 5th Floor, Boston, MA 02215
+
+Cyber Liability: Yes
+  - Coverage Limit: $1,000,000
+
+LOSS HISTORY (Past 5 Years)
+----------------------------
+General Liability Claims: 0
+  - No claims
+
+Professional Liability Claims: 1
+  - Date: 06/2021
+  - Description: Client alleged inadequate due diligence in merger recommendation
+  - Amount Paid: $85,000 (settled)
+
+Auto Claims: 1
+  - Date: 09/2023 - Minor fender bender in parking garage - $2,800
+
+Workers Comp Claims: 0
+  - No claims
+
+ADDITIONAL INFORMATION
+----------------------
+Professional Certifications: 18 employees hold MBA degrees, 8 hold PMP certifications
+Client Contracts: All engagements under written contracts with limitation of liability clauses
+Quality Control: Peer review process for all deliverables, client satisfaction surveys
+Technology: Cloud-based project management, encrypted file storage
+Data Security: Multi-factor authentication, regular security audits, cyber insurance training
+Previous E&O Coverage: Continuous coverage for past 10 years with same carrier
+Revenue by Service Type:
+  - Strategic Planning: 40%
+  - Organizational Development: 30%
+  - Process Improvement: 20%
+  - Change Management: 10%
+
+APPLICANT SIGNATURE
+-------------------
+Signed: Elizabeth Warren, Managing Partner
+Date: 03/05/2024

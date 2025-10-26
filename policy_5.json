@@ -1,0 +1,109 @@
+{
+  "policy_number": "CMP-2024-667834",
+  "effective_date": "03/15/2024",
+  "expiration_date": "03/15/2025",
+  "insured": {
+    "business_name": "Precision Parts Manufacturing Inc.",
+    "dba": "Precision Parts",
+    "address": "2500 Industrial Parkway, Austin, TX 78758",
+    "federal_id": "74-8765432",
+    "industry_code": "332710",
+    "industry_description": "Machine Shops"
+  },
+  "policy_type": "Commercial Package Policy",
+  "premium": {
+    "total_annual_premium": 56800,
+    "general_liability": 16500,
+    "commercial_auto": 6200,
+    "workers_compensation": 21000,
+    "property": 11600,
+    "equipment_breakdown": 1500,
+    "payment_plan": "10-month installments",
+    "deposit": 11360
+  },
+  "coverages": {
+    "general_liability": {
+      "form": "Occurrence",
+      "each_occurrence_limit": 2000000,
+      "general_aggregate_limit": 4000000,
+      "products_completed_operations_aggregate": 4000000,
+      "personal_advertising_injury": 2000000,
+      "medical_expense_limit": 10000,
+      "deductible": 5000,
+      "additional_insureds": "Customers as required by written contract"
+    },
+    "commercial_auto": {
+      "covered_autos": "All owned autos",
+      "liability_limit": "1000000 Combined Single Limit",
+      "uninsured_motorist": "1000000 Combined Single Limit",
+      "medical_payments": 5000,
+      "comprehensive_deductible": 500,
+      "collision_deductible": 1000,
+      "number_of_vehicles": 4,
+      "vehicle_schedule": [
+        {"year": 2021, "make": "Ford", "model": "F-150", "vin": "1FTEW1E58MFA12345", "use": "Service/Parts pickup"},
+        {"year": 2022, "make": "Chevrolet", "model": "Silverado", "vin": "1GCUDEED7NZ234567", "use": "Service/Parts pickup"},
+        {"year": 2020, "make": "Ford", "model": "Transit", "vin": "NM0LS7E72L1345678", "use": "Parts delivery"},
+        {"year": 2023, "make": "Ram", "model": "ProMaster", "vin": "3C6TRVAG9PE456789", "use": "Parts delivery"}
+      ]
+    },
+    "workers_compensation": {
+      "state": "TX",
+      "limits": "Statutory",
+      "employers_liability": {
+        "bodily_injury_by_accident": 1000000,
+        "bodily_injury_by_disease_policy_limit": 1000000,
+        "bodily_injury_by_disease_each_employee": 1000000
+      },
+      "estimated_annual_premium": 21000,
+      "payroll_basis": 2100000
+    },
+    "property": {
+      "building_coverage": 1800000,
+      "building_ownership": "Owned",
+      "business_personal_property_limit": 850000,
+      "business_income_limit": 750000,
+      "extra_expense_limit": 250000,
+      "equipment_breakdown": 500000,
+      "deductible": 10000,
+      "cause_of_loss": "Special Form",
+      "location": "2500 Industrial Parkway, Austin, TX 78758",
+      "scheduled_property": [
+        {"type": "Machinery and Equipment", "limit": 650000},
+        {"type": "Raw Materials and Inventory", "limit": 200000}
+      ],
+      "protective_safeguards": {
+        "automatic_sprinkler_system": true,
+        "fire_alarm": true,
+        "security_system": true
+      },
+      "building_construction": "Concrete tilt-up, non-combustible"
+    }
+  },
+  "underwriting_factors": {
+    "years_in_business": 18,
+    "number_of_employees": 45,
+    "annual_revenue": 4500000,
+    "loss_ratio_past_5_years": 0.22,
+    "claims_count_past_5_years": 8,
+    "credit_score_tier": "Good",
+    "safety_programs": true,
+    "experience_modification_rate": 1.18,
+    "iso_certified": true,
+    "quality_certifications": ["ISO 9001:2015", "AS9100D"],
+    "building_owned": true
+  },
+  "endorsements": [
+    "Blanket Additional Insured",
+    "Waiver of Subrogation",
+    "Equipment Breakdown Coverage",
+    "Ordinance or Law Coverage ($500,000)",
+    "Pollutant Cleanup and Removal ($25,000)",
+    "Hired and Non-Owned Auto Liability"
+  ],
+  "agent": {
+    "agency_name": "Industrial Risk Partners",
+    "agent_name": "Amanda Martinez",
+    "commission_rate": 0.12
+  }
+}

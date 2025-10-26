@@ -1,0 +1,104 @@
+{
+  "policy_number": "CMP-2024-892341",
+  "effective_date": "03/15/2024",
+  "expiration_date": "03/15/2025",
+  "insured": {
+    "business_name": "Bella Vista Italian Restaurant Inc.",
+    "dba": "Bella Vista",
+    "address": "8823 Market Street, San Francisco, CA 94102",
+    "federal_id": "94-7654321",
+    "industry_code": "722511",
+    "industry_description": "Full-Service Restaurants"
+  },
+  "policy_type": "Business Owners Policy (BOP) with Liquor Liability",
+  "premium": {
+    "total_annual_premium": 42800,
+    "general_liability": 18500,
+    "liquor_liability": 9200,
+    "commercial_auto": 4800,
+    "workers_compensation": 8100,
+    "property": 2200,
+    "payment_plan": "Monthly",
+    "deposit": 7133
+  },
+  "coverages": {
+    "general_liability": {
+      "form": "Occurrence",
+      "each_occurrence_limit": 2000000,
+      "general_aggregate_limit": 4000000,
+      "products_completed_operations_aggregate": 4000000,
+      "personal_advertising_injury": 2000000,
+      "medical_expense_limit": 10000,
+      "deductible": 2500,
+      "additional_insureds": "Landlord per lease agreement"
+    },
+    "liquor_liability": {
+      "each_common_cause_limit": 2000000,
+      "aggregate_limit": 4000000,
+      "deductible": 2500,
+      "alcohol_sales_percentage": 35
+    },
+    "commercial_auto": {
+      "covered_autos": "All owned autos",
+      "liability_limit": "1000000 Combined Single Limit",
+      "uninsured_motorist": "1000000 Combined Single Limit",
+      "medical_payments": 5000,
+      "comprehensive_deductible": 500,
+      "collision_deductible": 1000,
+      "number_of_vehicles": 2,
+      "vehicle_schedule": [
+        {"year": 2020, "make": "Ford", "model": "Transit Connect", "vin": "NM0LS7E7XL1234567", "use": "Delivery"},
+        {"year": 2022, "make": "Ram", "model": "ProMaster City", "vin": "ZFBHRFAB8N6789012", "use": "Delivery"}
+      ]
+    },
+    "workers_compensation": {
+      "state": "CA",
+      "limits": "Statutory",
+      "employers_liability": {
+        "bodily_injury_by_accident": 1000000,
+        "bodily_injury_by_disease_policy_limit": 1000000,
+        "bodily_injury_by_disease_each_employee": 1000000
+      },
+      "estimated_annual_premium": 8100,
+      "payroll_basis": 1450000
+    },
+    "property": {
+      "building_coverage": 0,
+      "building_ownership": "Not Owned",
+      "business_personal_property_limit": 425000,
+      "business_income_limit": 500000,
+      "extra_expense_limit": 100000,
+      "equipment_breakdown": 100000,
+      "deductible": 5000,
+      "cause_of_loss": "Special Form",
+      "location": "8823 Market Street, San Francisco, CA 94102",
+      "spoilage_coverage": 25000
+    }
+  },
+  "underwriting_factors": {
+    "years_in_business": 12,
+    "number_of_employees": 40,
+    "annual_revenue": 2800000,
+    "loss_ratio_past_5_years": 0.18,
+    "claims_count_past_5_years": 6,
+    "credit_score_tier": "Good",
+    "safety_programs": true,
+    "experience_modification_rate": 1.15,
+    "health_inspection_score": 95,
+    "seating_capacity": 120,
+    "alcohol_sales": true
+  },
+  "endorsements": [
+    "Liquor Liability",
+    "Equipment Breakdown",
+    "Spoilage Coverage",
+    "Assault and Battery Exclusion Buyback",
+    "Employee Dishonesty Coverage ($50,000)",
+    "Food Contamination Coverage"
+  ],
+  "agent": {
+    "agency_name": "Pacific Risk Advisors",
+    "agent_name": "Michael Thompson",
+    "commission_rate": 0.15
+  }
+}

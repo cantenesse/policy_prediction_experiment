@@ -1,0 +1,97 @@
+ACORD 125 - COMMERCIAL INSURANCE APPLICATION
+============================================
+
+AGENCY: Coastal Insurance Services
+AGENT: Lisa Johnson
+DATE: 03/20/2024
+APPLICATION NO: APP-2024-278
+
+APPLICANT INFORMATION
+---------------------
+Business Name: FitLife Wellness Center LLC
+DBA: FitLife
+Mailing Address: 3300 Ocean Boulevard
+City: Miami, State: FL, ZIP: 33139
+Physical Address: Same as mailing
+Business Phone: (305) 555-0612
+Email: info@fitlifemiami.com
+Website: www.fitlifemiami.com
+Federal ID: 65-2345678
+
+BUSINESS DESCRIPTION
+--------------------
+Type of Business: Fitness center and gym
+Years in Business: 6
+Legal Structure: Limited Liability Company
+Total Number of Employees: 22 full-time, 8 part-time
+Annual Payroll: $980,000
+Annual Revenue: $1,650,000
+Facility Size: 12,000 square feet
+Membership: 850 active members
+Services: Gym access, personal training, group fitness classes (yoga, spinning, HIIT), nutrition counseling
+Hours of Operation: 5:00 AM - 11:00 PM (Mon-Fri), 7:00 AM - 9:00 PM (Sat-Sun)
+Childcare: On-site childcare during peak hours (6:00 AM - 10:00 AM, 4:00 PM - 7:00 PM)
+
+COVERAGE REQUESTED
+------------------
+General Liability: Yes
+  - Occurrence Limit: $2,000,000
+  - Aggregate Limit: $4,000,000
+  - Abuse and Molestation: $1,000,000
+
+Commercial Auto: Yes
+  - Number of Vehicles: 1
+  - Vehicle Types: 1 van (used for equipment transport)
+
+Workers Compensation: Yes
+  - State: Florida
+  - Estimated Annual Payroll: $980,000
+
+Property: Yes
+  - Building Value: $0 (leased)
+  - Business Personal Property: $380,000
+  - Equipment: $300,000
+  - Fixtures: $80,000
+  - Location: 3300 Ocean Boulevard, Miami, FL 33139
+
+Professional Liability: Yes
+  - Personal Trainers E&O
+  - Coverage Limit: $1,000,000
+
+LOSS HISTORY (Past 5 Years)
+----------------------------
+General Liability Claims: 3
+  - Date: 09/2023
+  - Description: Member fell on treadmill, fractured wrist
+  - Amount Paid: $22,000
+  
+  - Date: 03/2022
+  - Description: Weight dropped on member's foot during personal training
+  - Amount Paid: $8,500
+  
+  - Date: 07/2021
+  - Description: Slip and fall in locker room (wet floor)
+  - Amount Paid: $12,000
+
+Auto Claims: 0
+  - No claims
+
+Workers Comp Claims: 2
+  - Date: 05/2023 - Personal trainer back injury demonstrating exercise - $9,800
+  - Date: 11/2022 - Maintenance staff slip in shower area - $5,400
+
+ADDITIONAL INFORMATION
+----------------------
+Safety Programs: Yes - New member orientation, equipment usage training, posted safety rules
+Staff Certifications: All personal trainers have CPT certification (NASM, ACE, or ISSA)
+Waivers: All members sign liability waiver and assumption of risk agreement
+Equipment Maintenance: Monthly preventive maintenance, daily equipment checks
+Building Features: Sprinkler system, AED on premises, first aid kits
+Childcare Staff: Background checks for all childcare employees, CPR certified
+Supervision: Floor staff present during all operating hours, 1 trainer per 10 clients in group classes
+Previous Issues: Implemented enhanced floor cleaning protocols after 2023 treadmill incident
+
+APPLICANT SIGNATURE
+-------------------
+Signed: Michael Torres, Managing Member
+Date: 03/20/2024

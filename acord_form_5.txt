@@ -1,0 +1,96 @@
+ACORD 125 - COMMERCIAL INSURANCE APPLICATION
+============================================
+
+AGENCY: Industrial Risk Partners
+AGENT: Amanda Martinez
+DATE: 02/15/2024
+APPLICATION NO: APP-2024-203
+
+APPLICANT INFORMATION
+---------------------
+Business Name: Precision Parts Manufacturing Inc.
+DBA: Precision Parts
+Mailing Address: 2500 Industrial Parkway
+City: Austin, State: TX, ZIP: 78758
+Physical Address: Same as mailing
+Business Phone: (512) 555-0421
+Email: info@precisionpartsmfg.com
+Website: www.precisionpartsmfg.com
+Federal ID: 74-8765432
+
+BUSINESS DESCRIPTION
+--------------------
+Type of Business: Custom metal parts manufacturing (CNC machining)
+Years in Business: 18
+Legal Structure: C Corporation
+Total Number of Employees: 45 full-time
+Annual Payroll: $2,100,000
+Annual Revenue: $4,500,000
+Facility Size: 25,000 square feet
+Products: Custom machined parts for aerospace, medical device, and automotive industries
+Manufacturing Process: CNC milling, turning, grinding, quality inspection
+Shifts: Two shifts (6 AM - 2:30 PM, 2:30 PM - 11 PM)
+
+COVERAGE REQUESTED
+------------------
+General Liability: Yes
+  - Occurrence Limit: $2,000,000
+  - Aggregate Limit: $4,000,000
+  - Products/Completed Ops: $4,000,000
+
+Commercial Auto: Yes
+  - Number of Vehicles: 4
+  - Vehicle Types: 2 pickup trucks, 2 delivery vans
+
+Workers Compensation: Yes
+  - State: Texas
+  - Estimated Annual Payroll: $2,100,000
+
+Property: Yes
+  - Building Value: $1,800,000 (owned)
+  - Business Personal Property: $850,000
+  - Equipment: $650,000
+  - Inventory: $200,000
+  - Location: 2500 Industrial Parkway, Austin, TX 78758
+
+Equipment Breakdown: Yes
+  - Coverage Limit: $500,000
+
+LOSS HISTORY (Past 5 Years)
+----------------------------
+General Liability Claims: 1
+  - Date: 04/2022
+  - Description: Defective part caused equipment malfunction at customer facility
+  - Amount Paid: $45,000
+
+Property Claims: 1
+  - Date: 08/2021
+  - Description: Fire in paint booth, minimal damage due to quick response
+  - Amount Paid: $18,000
+
+Auto Claims: 2
+  - Date: 06/2023 - Delivery van accident (side-swipe) - $5,400
+  - Date: 11/2022 - Pickup truck vandalism - $1,800
+
+Workers Comp Claims: 4
+  - Date: 03/2024 - Finger injury on lathe - $12,000
+  - Date: 10/2023 - Back strain from lifting - $6,500
+  - Date: 05/2022 - Metal chip eye injury - $4,200
+  - Date: 01/2021 - Slip and fall in warehouse - $7,800
+
+ADDITIONAL INFORMATION
+----------------------
+Safety Programs: Yes - Weekly safety meetings, machine guarding, lockout/tagout procedures, PPE requirements
+Certifications: ISO 9001:2015 certified, AS9100D (aerospace quality)
+Quality Control: 100% inspection of critical parts, CMM inspection capabilities
+Environmental: No hazardous waste generation, standard coolants and lubricants
+Security: Fenced facility, security system, 24/7 monitoring
+Building Features: Concrete tilt-up construction, sprinkler system throughout, fire alarm system
+Maintenance: Preventive maintenance program for all CNC equipment
+Customer Base: 60% aerospace, 25% medical devices, 15% automotive
+Largest Customer: 18% of annual revenue
+
+APPLICANT SIGNATURE
+-------------------
+Signed: James Peterson, President
+Date: 02/15/2024

@@ -1,0 +1,83 @@
+ACORD 125 - COMMERCIAL INSURANCE APPLICATION
+============================================
+
+AGENCY: Midwest Insurance Group
+AGENT: Sarah Williams
+DATE: 01/10/2024
+APPLICATION NO: APP-2024-112
+
+APPLICANT INFORMATION
+---------------------
+Business Name: TechHub Electronics LLC
+DBA: TechHub
+Mailing Address: 456 Maple Avenue
+City: Chicago, State: IL, ZIP: 60614
+Physical Address: Same as mailing
+Business Phone: (312) 555-0287
+Email: info@techhubchicago.com
+Website: www.techhubchicago.com
+Federal ID: 36-9876543
+
+BUSINESS DESCRIPTION
+--------------------
+Type of Business: Retail electronics and computer store
+Years in Business: 5
+Legal Structure: Limited Liability Company
+Total Number of Employees: 8 full-time, 4 part-time
+Annual Payroll: $520,000
+Annual Revenue: $1,850,000
+Store Size: 3,200 square feet
+Hours of Operation: 10:00 AM - 8:00 PM (Mon-Sat), 12:00 PM - 6:00 PM (Sun)
+
+COVERAGE REQUESTED
+------------------
+General Liability: Yes
+  - Occurrence Limit: $1,000,000
+  - Aggregate Limit: $2,000,000
+
+Commercial Auto: No
+  - No company vehicles
+
+Workers Compensation: Yes
+  - State: Illinois
+  - Estimated Annual Payroll: $520,000
+
+Property: Yes
+  - Building Value: $0 (leased)
+  - Business Personal Property: $650,000
+  - Stock/Inventory: $450,000
+  - Equipment: $200,000
+  - Location: 456 Maple Avenue, Chicago, IL 60614
+
+Crime Coverage: Yes
+  - Employee Dishonesty: $100,000
+  - Money and Securities: $25,000
+
+LOSS HISTORY (Past 5 Years)
+----------------------------
+General Liability Claims: 0
+  - No claims
+
+Property Claims: 1
+  - Date: 12/2022
+  - Description: Theft/Burglary - inventory stolen
+  - Amount Paid: $32,000
+
+Workers Comp Claims: 0
+  - No claims
+
+ADDITIONAL INFORMATION
+----------------------
+Safety Programs: Yes - Employee safety training, ergonomic workstations
+Security Features: 24/7 security system, cameras (16), motion sensors, steel security gate
+Inventory Management: Electronic point-of-sale system, daily inventory counts
+Building Features: Sprinkler system, building in good condition
+Products Sold: Computers, laptops, tablets, smartphones, accessories, software
+Services Offered: Basic tech support, device setup (no repairs)
+Online Sales: 15% of revenue through e-commerce platform
+Previous Burglary: Enhanced security after 2022 incident (added cameras, upgraded alarm)
+
+APPLICANT SIGNATURE
+-------------------
+Signed: David Kim, Managing Member
+Date: 01/10/2024
